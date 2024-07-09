@@ -1,4 +1,5 @@
 # IPExtractorPro
+![image](https://github.com/JafarAli-SHO/IpExtractorPro/assets/106411544/21cf65ec-6cb9-48e2-a0cf-ffeff8a42d09)
 
 IPExtractorPro is a Python script designed to extract IP addresses from a given domain by fetching subdomains from VirusTotal and SecurityTrails APIs and performing DNS queries on the subdomains. 
 
@@ -27,7 +28,8 @@ IPExtractorPro is a Python script designed to extract IP addresses from a given 
 1. **Run the script:**
     python IPExtractorPro.py
 
-   the script will first prompt for virustotal and security trails api key after setting it the script will save a file config.txt and store the api key in that file to current working directory
+   the script will first prompt for virustotal and security trails api key after setting it the script will save a file config.txt and store the 
+   api key in that file to current working directory
    ![image](https://github.com/JafarAli-SHO/IpExtractorPro/assets/106411544/9804738f-57a3-45fd-a02b-9c129dc98f1a)
 
    after setting the api key the script will prompt for entering the target website url
