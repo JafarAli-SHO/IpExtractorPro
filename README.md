@@ -36,4 +36,4 @@ IPExtractorPro is a Python script designed to extract IP addresses from a given 
 
  2. After setting the api key the script will prompt for entering the target website url
  
-   ![image](https://github.com/JafarAli-SHO/IpExtractorPro/assets/106411544/8d15f104-550b-4a93-9637-d3999de22eaf)
+    ![image](https://github.com/JafarAli-SHO/IpExtractorPro/assets/106411544/8d15f104-550b-4a93-9637-d3999de22eaf)
