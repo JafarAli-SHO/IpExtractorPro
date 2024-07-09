@@ -4,7 +4,7 @@
 IPExtractorPro is a Python script designed to extract IP addresses from a given domain by fetching subdomains from VirusTotal and SecurityTrails APIs and performing DNS queries on the subdomains. 
 
 ## Features
-
+- **Fetch ip addresses(Both private and public) from the target website url and thier subdomains**
 - Fetch subdomains from VirusTotal API
 - Fetch subdomains from SecurityTrails API
 - Perform DNS queries to extract IP addresses of the subdomains
