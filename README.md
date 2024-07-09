@@ -22,6 +22,7 @@ IPExtractorPro is a Python script designed to extract IP addresses from a given 
 - **Clone the repository:**
 - **Install the required Python packages:**
     sudo apt-get install dnsutils
+  
     pip install requests pyfiglet termcolor
   ## Usage
 
