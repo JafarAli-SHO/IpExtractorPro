@@ -26,6 +26,7 @@ IPExtractorPro is a Python script designed to extract IP addresses from a given 
 
 1. **Run the script:**
     python IPExtractorPro.py
+
    the script will first prompt for virustotal and security trails api key after setting it the script will save a file config.txt and store the api key in that file to current working directory
    ![image](https://github.com/JafarAli-SHO/IpExtractorPro/assets/106411544/9804738f-57a3-45fd-a02b-9c129dc98f1a)
 
